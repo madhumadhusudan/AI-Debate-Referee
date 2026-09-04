@@ -1,0 +1,368 @@
+{
+  "debates": [
+    {
+      "id": "demo-social-media",
+      "title": "Social Media Regulation & Public Welfare",
+      "topic": "Should social media platforms be regulated more strictly by public policy?",
+      "status": "completed",
+      "mode": "voice",
+      "language": "en",
+      "created_at": "2026-09-04T17:44:25.104Z",
+      "metadata_json": "{\"duration_seconds\":384,\"total_words\":1120,\"total_statements\":10,\"audio_duration\":\"06:24\"}"
+    }
+  ],
+  "participants": [
+    {
+      "id": "p-sarah",
+      "debate_id": "demo-social-media",
+      "name": "Dr. Sarah Chen",
+      "role": "Proposition (Pro-Regulation)",
+      "side": "Affirmative",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "speaking_time": 198,
+      "wpm": 138,
+      "interruptions": 1
+    },
+    {
+      "id": "p-marcus",
+      "debate_id": "demo-social-media",
+      "name": "Marcus Vance",
+      "role": "Opposition (Market & Speech Autonomy)",
+      "side": "Negative",
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&auto=format&fit=crop&q=80",
+      "speaking_time": 186,
+      "wpm": 145,
+      "interruptions": 2
+    }
+  ],
+  "statements": [
+    {
+      "id": "s-01",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-sarah",
+      "speaker_name": "Dr. Sarah Chen",
+      "text": "Peer-reviewed studies in the Journal of Adolescent Health demonstrate a 37% increase in clinical adolescent depressive symptoms directly correlated with engagement-maximizing algorithmic feeds.",
+      "timestamp_start": 3.5,
+      "timestamp_end": 18.2,
+      "statement_type": "evidence",
+      "emotion": "Concerned",
+      "confidence": 0.94,
+      "created_at": "2026-09-04T17:38:25.105Z"
+    },
+    {
+      "id": "s-02",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-marcus",
+      "speaker_name": "Marcus Vance",
+      "text": "Correlation does not establish algorithmic causation; socio-economic disruptions and academic stress rose identically during the exact same timeframe across populations with minimal screen time.",
+      "timestamp_start": 20,
+      "timestamp_end": 34.8,
+      "statement_type": "rebuttal",
+      "emotion": "Calm",
+      "confidence": 0.91,
+      "created_at": "2026-09-04T17:38:55.105Z"
+    },
+    {
+      "id": "s-03",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-sarah",
+      "speaker_name": "Dr. Sarah Chen",
+      "text": "Every major technology company deliberately engineers variable-ratio dopamine reinforcement loops, exactly like mechanical slot machines, which negates the assumption of unconstrained consumer choice.",
+      "timestamp_start": 36.5,
+      "timestamp_end": 51,
+      "statement_type": "claim",
+      "emotion": "Confident",
+      "confidence": 0.88,
+      "created_at": "2026-09-04T17:39:25.105Z"
+    },
+    {
+      "id": "s-04",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-marcus",
+      "speaker_name": "Marcus Vance",
+      "text": "If we empower government agencies to dictate permissible recommendation architectures, state regulators will inevitably censor dissenting political discourse under the guise of mental hygiene.",
+      "timestamp_start": 53.2,
+      "timestamp_end": 69.4,
+      "statement_type": "claim",
+      "emotion": "Excited",
+      "confidence": 0.85,
+      "created_at": "2026-09-04T17:39:55.105Z"
+    },
+    {
+      "id": "s-05",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-sarah",
+      "speaker_name": "Dr. Sarah Chen",
+      "text": "European Union enforcement of the Digital Services Act has already established transparency mandates for systemic risk audits without infringing on fundamental political expression.",
+      "timestamp_start": 72,
+      "timestamp_end": 87.5,
+      "statement_type": "evidence",
+      "emotion": "Calm",
+      "confidence": 0.93,
+      "created_at": "2026-09-04T17:40:25.105Z"
+    },
+    {
+      "id": "s-06",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-marcus",
+      "speaker_name": "Marcus Vance",
+      "text": "The EU compliance costs have disproportionately crippled small European open-source startups while leaving incumbent monopolies even more entrenched behind bureaucratic moats.",
+      "timestamp_start": 89,
+      "timestamp_end": 104.2,
+      "statement_type": "counterclaim",
+      "emotion": "Confident",
+      "confidence": 0.89,
+      "created_at": "2026-09-04T17:40:55.105Z"
+    },
+    {
+      "id": "s-07",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-sarah",
+      "speaker_name": "Dr. Sarah Chen",
+      "text": "Marcus claims startups are harmed, but anyone who opposes our consumer safety regulations clearly does not care about protecting vulnerable children from self-harm content.",
+      "timestamp_start": 106,
+      "timestamp_end": 119.5,
+      "statement_type": "claim",
+      "emotion": "Frustrated",
+      "confidence": 0.82,
+      "created_at": "2026-09-04T17:41:25.105Z"
+    },
+    {
+      "id": "s-08",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-marcus",
+      "speaker_name": "Marcus Vance",
+      "text": "That misrepresents my position entirely. We all prioritize child safety; the contention is whether algorithmic speech licensing is the only or most effective mechanism to achieve it.",
+      "timestamp_start": 121.5,
+      "timestamp_end": 136,
+      "statement_type": "rebuttal",
+      "emotion": "Calm",
+      "confidence": 0.95,
+      "created_at": "2026-09-04T17:41:55.105Z"
+    },
+    {
+      "id": "s-09",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-sarah",
+      "speaker_name": "Dr. Sarah Chen",
+      "text": "Earlier Marcus argued that digital platforms operate as open competitive marketplaces, but later conceded that two conglomerates control 84% of mobile advertising distribution.",
+      "timestamp_start": 138.5,
+      "timestamp_end": 154,
+      "statement_type": "claim",
+      "emotion": "Confident",
+      "confidence": 0.9,
+      "created_at": "2026-09-04T17:42:25.105Z"
+    },
+    {
+      "id": "s-10",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-marcus",
+      "speaker_name": "Marcus Vance",
+      "text": "Market concentration in ad tech does not equate to ideological monopoly; users transition freely across decentralized networks, TikTok, and messaging protocols daily.",
+      "timestamp_start": 156,
+      "timestamp_end": 172.5,
+      "statement_type": "counterclaim",
+      "emotion": "Neutral",
+      "confidence": 0.87,
+      "created_at": "2026-09-04T17:42:55.105Z"
+    },
+    {
+      "id": "s-1788544498376-pw8a",
+      "debate_id": "demo-social-media",
+      "participant_id": "p-unknown",
+      "speaker_name": "Dr. Aris Thorne",
+      "text": "According to the 2024 OECD Digital Economy study, engagement algorithms amplified sensationalist claims by 70%.",
+      "timestamp_start": 0,
+      "timestamp_end": 0,
+      "statement_type": "evidence",
+      "emotion": "Neutral",
+      "confidence": 0.91,
+      "created_at": "2026-09-04T17:54:58.378Z"
+    }
+  ],
+  "claims": [
+    {
+      "id": "c-01",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-01",
+      "speaker_id": "p-sarah",
+      "text": "Engagement-maximizing algorithmic feeds cause a measurable rise in adolescent clinical depression.",
+      "claim_type": "Causal Claim",
+      "importance": "High",
+      "confidence": 0.92,
+      "support_status": "Moderate Support"
+    },
+    {
+      "id": "c-02",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-03",
+      "speaker_id": "p-sarah",
+      "text": "Platforms exploit neurobiological dopamine loops to systematically bypass voluntary consumer choice.",
+      "claim_type": "Value / Empirical",
+      "importance": "High",
+      "confidence": 0.88,
+      "support_status": "Moderate Support"
+    },
+    {
+      "id": "c-03",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-04",
+      "speaker_id": "p-marcus",
+      "text": "State regulatory oversight of recommendation algorithms inevitably expands into viewpoint discrimination and political censorship.",
+      "claim_type": "Prediction / Causal",
+      "importance": "High",
+      "confidence": 0.79,
+      "support_status": "Weak Support"
+    },
+    {
+      "id": "c-04",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-06",
+      "speaker_id": "p-marcus",
+      "text": "Systemic compliance overhead disproportionately locks in dominant tech monopolies by bankrupting smaller competitors.",
+      "claim_type": "Economic / Empirical",
+      "importance": "Medium",
+      "confidence": 0.84,
+      "support_status": "Moderate Support"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "e-01",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-01",
+      "claim_id": "c-01",
+      "speaker_id": "p-sarah",
+      "text": "Journal of Adolescent Health longitudinal study documenting a 37% relative increase in youth depressive symptom reports with 4+ hours daily feed consumption.",
+      "evidence_type": "Scientific Study",
+      "reliability": "High",
+      "relevance": 0.91,
+      "directness": "Direct",
+      "source": "Journal of Adolescent Health, Vol 68, Issue 4"
+    },
+    {
+      "id": "e-02",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-05",
+      "claim_id": "c-01",
+      "speaker_id": "p-sarah",
+      "text": "European Commission Digital Services Act Article 34 independent audit disclosures from Q3 2024.",
+      "evidence_type": "Government Regulatory Audit",
+      "reliability": "High",
+      "relevance": 0.85,
+      "directness": "Corroborating",
+      "source": "European Union Official Journal, DSA Implementation Dossier"
+    },
+    {
+      "id": "e-03",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-02",
+      "claim_id": "c-03",
+      "speaker_id": "p-marcus",
+      "text": "Cross-national epidemiological survey comparing non-smartphone cohorts showing concurrent 31% rise in generalized teen anxiety.",
+      "evidence_type": "Epidemiological Survey",
+      "reliability": "Medium",
+      "relevance": 0.82,
+      "directness": "Direct Counter-evidence",
+      "source": "OECD Social Indicators Working Paper 2023"
+    },
+    {
+      "id": "e-1788544498378",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-1788544498376-pw8a",
+      "speaker_id": "p-unknown",
+      "text": "According to the 2024 OECD Digital Economy study, engagement algorithms amplified sensationalist claims by 70%.",
+      "evidence_type": "Statistical Evidence",
+      "reliability": null,
+      "relevance": null,
+      "directness": null,
+      "source": null,
+      "created_at": "2026-09-04T17:54:58.378Z"
+    }
+  ],
+  "fallacies": [
+    {
+      "id": "f-01",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-04",
+      "speaker_id": "p-marcus",
+      "fallacy_name": "Slippery Slope",
+      "statement_text": "If we empower government agencies to dictate permissible recommendation architectures, state regulators will inevitably censor dissenting political discourse under the guise of mental hygiene.",
+      "explanation": "Assumes without intermediate causal proof that auditing algorithmic amplification must inescapably culminate in draconian state censorship.",
+      "confidence": 0.84,
+      "how_to_improve": "Provide specific statutory precedents or mechanisms showing how current algorithmic transparency proposals lack checks against overreach."
+    },
+    {
+      "id": "f-02",
+      "debate_id": "demo-social-media",
+      "statement_id": "s-07",
+      "speaker_id": "p-sarah",
+      "fallacy_name": "Ad Hominem / False Dilemma (Moral Smear)",
+      "statement_text": "...anyone who opposes our consumer safety regulations clearly does not care about protecting vulnerable children from self-harm content.",
+      "explanation": "Reduces principled disagreement over regulatory architecture into an attack on the opponent’s personal morality, presenting a false binary between supporting this specific law and being indifferent to child harm.",
+      "confidence": 0.92,
+      "how_to_improve": "Engage Marcus’s economic argument regarding startup compliance costs directly without questioning his personal motives."
+    }
+  ],
+  "contradictions": [
+    {
+      "id": "ct-01",
+      "debate_id": "demo-social-media",
+      "statement1_id": "s-01",
+      "statement2_id": "s-02",
+      "speaker1_name": "Dr. Sarah Chen",
+      "speaker2_name": "Marcus Vance",
+      "statement1_text": "Peer-reviewed studies ... demonstrate a 37% increase in clinical adolescent depressive symptoms directly correlated with engagement-maximizing algorithmic feeds.",
+      "statement2_text": "Correlation does not establish algorithmic causation; socio-economic disruptions and academic stress rose identically during the exact same timeframe...",
+      "contradiction_type": "Cross-Participant Direct Tension",
+      "confidence": 0.91,
+      "explanation": "Direct empirical dispute regarding whether platform algorithmic design is the primary causal driver or an incidental co-variable of youth mental health trends."
+    },
+    {
+      "id": "ct-02",
+      "debate_id": "demo-social-media",
+      "statement1_id": "s-09",
+      "statement2_id": "s-10",
+      "speaker1_name": "Dr. Sarah Chen",
+      "speaker2_name": "Marcus Vance",
+      "statement1_text": "Earlier Marcus argued that digital platforms operate as open competitive marketplaces...",
+      "statement2_text": "Market concentration in ad tech does not equate to ideological monopoly; users transition freely across decentralized networks...",
+      "contradiction_type": "Contextual Tension / Nuance Shift",
+      "confidence": 0.79,
+      "explanation": "Tension between treating platforms as perfectly contestable consumer markets while acknowledging extreme structural concentration in upstream ad monetization."
+    }
+  ],
+  "assumptions": [
+    {
+      "id": "as-01",
+      "debate_id": "demo-social-media",
+      "claim_id": "c-01",
+      "speaker_id": "p-sarah",
+      "claim_text": "Engagement-maximizing feeds cause a measurable rise in adolescent depression.",
+      "unstated_premise": "Assumes that algorithmic feed curation is the decisive factor rather than screen time volume, sleep displacement, or pre-existing vulnerability.",
+      "risk_level": "Medium",
+      "explanation": "If sleep disruption is the true mediating mechanism, regulating feed algorithms alone may not achieve the predicted health outcomes."
+    },
+    {
+      "id": "as-02",
+      "debate_id": "demo-social-media",
+      "claim_id": "c-03",
+      "speaker_id": "p-marcus",
+      "claim_text": "State regulatory oversight inevitably expands into political censorship.",
+      "unstated_premise": "Assumes regulatory bodies cannot maintain independent judiciary oversight, structural firewalls, or procedural transparency.",
+      "risk_level": "High",
+      "explanation": "Historical regulatory bodies (such as FDA or FAA) operate with legal constraints; the argument assumes digital speech authorities cannot establish similar safeguards."
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb-1788544402388",
+      "statement_id": "test-1",
+      "original_prediction": "Claim",
+      "corrected_label": "Evidence",
+      "task_type": "classification",
+      "notes": "Verified citation",
+      "created_at": "2026-09-04T17:53:22.388Z"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AI Debate Referee",
+  "description": "Intelligent Multimodal Debate, Argument & Reasoning Analysis System with Deep NLP Pipeline, NLI, Contradiction Detection, Fallacy Classification, and Live Speech Synchronization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
