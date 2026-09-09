@@ -4,7 +4,7 @@
 **AI Debate Referee** is an intelligent multimodal debate, argument, and reasoning analysis platform. Built with a dual-stack NLP pipeline, Transformer Natural Language Inference (NLI), dialectical topology mapping, real-time speech synchronization, and deep cognitive dissection, it serves as an impartial intellectual epistemologist.
 
 ---
-## System View and ScreenShot
+## UI View and ScreenShot
 <img width="1363" height="588" alt="Screenshot 2026-09-05 221752" src="https://github.com/user-attachments/assets/3574a5da-8c33-413e-9bdf-18512b28526c" />
 
 ## 🧭 Core Philosophy & The Referee's Mandate
